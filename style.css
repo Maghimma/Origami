@@ -1,0 +1,32 @@
+@import url(https://fonts.googleapis.com/css?family=Amatic+SC);
+
+body {
+    text-align: center;
+    color: white;
+    background: linear-gradient(#99ffe5 0%, #b7c4ff 50%, #ffa3a3 100% );
+    font-family: "Amatic SC";
+}
+
+h1 {
+    font-size: 40px;
+    font-weight: 300;
+}
+
+#intro{
+    background-color: #99ffe5);
+}
+
+#origami1{
+   background-color: #b7c4ff;
+}
+#origami2{
+    background-color: #ffa3a3;
+ 
+}
+
+.line {
+    height: 6px;
+    background-color: white);
+    width: 70px;
+    margin: 8px auto;
+}
